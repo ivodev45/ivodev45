@@ -3,3 +3,5 @@
 </h1>
 
 <h3 align="center">Passionate developer with a talent for problem solving and team collaboration</h3>
+
+<br/>
